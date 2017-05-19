@@ -1,2 +1,2 @@
-# Go-Practice
-learning go lang 
+# Go-and-Kotlin
+learning Golang(no idea why!) and Kotlin(for android maybe?)
